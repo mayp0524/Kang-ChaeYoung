@@ -1,4 +1,4 @@
-# Test
+Ms.ChaeYong Kang
 Git Tutorial with Professor H.Kang
 
 # Abstract
