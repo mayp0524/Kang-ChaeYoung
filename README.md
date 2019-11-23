@@ -1,5 +1,6 @@
 # Ms.ChaeYong Kang
-sophomore in University(2019)
+sophomore in University (2019)
+
 Kangwon National University 
 
 # Abstract
