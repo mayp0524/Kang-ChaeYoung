@@ -34,14 +34,14 @@ Email : mayp0524@gmail.com
 - Photoshop
 - Maya
 
-```I'm able to use Premiere well and I'll study coloring programs as soon as possible
-```
+I'm able to use Premiere well and I'll study coloring programs as soon as possible
+
 
 # Project
 - PHONEBOOK : Create a phone book for college assignment (C++)
 
-```By analyzing and planning the functions required for the program, creating a flowchart, and designing it based on the written flowchart,  created by implementing the code.
-```
+By analyzing and planning the functions required for the program, creating a flowchart, and designing it based on the written flowchart,  created by implementing the code.
+
 
 - V-log : Create a video for Club activities 
 
