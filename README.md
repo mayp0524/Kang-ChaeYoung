@@ -1,5 +1,4 @@
-<img width="615" alt="KakaoTalk_20191124_173439422" src="https://user-images.githubusercontent.com/58070312/69492134-b5dfe080-0ee1-11ea-950d-60efc9476527.png">
-
+![Uploading KakaoTalk_20191124_174954179.jpg…]()
 
 
 
