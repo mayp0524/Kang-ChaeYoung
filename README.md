@@ -29,10 +29,11 @@ DESIGN
 
 I'm able to use Premiere well and I'll study coloring programs as soon as possible
 
-# Project 
-- PhoneBook 
-Create a phone book for college assignment
+# Project
+- PHONEBOOK : Create a phone book for college assignment (C++)
 - 
+
+
 
 
 
