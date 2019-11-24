@@ -3,12 +3,13 @@
 
 
 # Ms.ChaeYong Kang
-sophomore in University (2019)
 
 Kangwon National University 
 Major in Media Engineering
+sophomore in University (2019)
 
 # Interested In
+
 
 
 
