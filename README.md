@@ -8,5 +8,26 @@ sophomore in University (2019)
 Kangwon National University 
 
 # Interested In
-Students will upload their own project through git extention.
+
+
+
+
+
+# My abilities
+
+I' m able to use Premiere well and I'll study coloring programs in the future
+
+PROGRAMING LANGUAGE
+- JAVA
+- C++
+
+DESIGN
+- Premere Pro 
+- After Effect
+- Photoshop
+- Maya
+
+-
+
+
 
