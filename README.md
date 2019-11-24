@@ -5,11 +5,13 @@
 # Ms.ChaeYong Kang
 
 Kangwon National University 
+
 Major in Media Engineering
+
 sophomore in University (2019)
 
 # Interested In
-
+ 
 
 
 
@@ -29,7 +31,7 @@ DESIGN
 - Photoshop
 - Maya
 
-
+# Project 
 
 
 
