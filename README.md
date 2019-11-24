@@ -34,6 +34,10 @@ I'm able to use Premiere well and I'll study coloring programs as soon as possib
 
 By analyzing and planning the functions required for the program, creating a flowchart, and designing it based on the written flowchart,  created by implementing the code.
 
+- V-log : Create a video for Club activities 
+
+
+
 
 
 
