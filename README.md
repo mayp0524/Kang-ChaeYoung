@@ -23,11 +23,11 @@ Email : mayp0524@gmail.com
  
 # My abilities
 
-PROGRAMING LANGUAGE
+> PROGRAMING LANGUAGE <br>
 - JAVA
 - C++
 
-DESIGN
+> DESIGN <br>
 - Premere Pro 
 - After Effect
 - Photoshop
