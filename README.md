@@ -11,10 +11,8 @@ Major in Media Engineering
 sophomore in University (2019)
 
 # Interested In
- 
 
-
-
+ VFX & Coloring 
 
 
 # My abilities
@@ -32,6 +30,7 @@ DESIGN
 - Maya
 
 # Project 
+
 
 
 
