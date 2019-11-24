@@ -6,6 +6,7 @@
 sophomore in University (2019)
 
 Kangwon National University 
+Major in Media Engineering
 
 # Interested In
 
@@ -27,7 +28,8 @@ DESIGN
 - Photoshop
 - Maya
 
--
+
+
 
 
 
