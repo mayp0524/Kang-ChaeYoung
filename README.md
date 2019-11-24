@@ -10,6 +10,8 @@ Major in Media Engineering
 
 sophomore in University (2019)
 
+Email : mayp0524@gmail.com 
+
 # Interested In
 
  VFX & Coloring 
