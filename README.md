@@ -25,15 +25,15 @@ Email : mayp0524@gmail.com
 # My abilities
 
 > PROGRAMING LANGUAGE <br>
-- [x] JAVA
-- [x] C++
+-  JAVA
+-  C++
 
 > DESIGN <br>
-- [x] Premere Pro
-- [x] After Effect
-- [x] Photoshop
-- [ ] Maya
-- [ ] Color
+-  Premere Pro
+-  After Effect
+-  Photoshop
+-  Maya
+-  Color
 
 I'm able to use Premiere well and I'll study coloring programs as soon as possible
 
