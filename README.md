@@ -17,8 +17,6 @@ sophomore in University (2019)
 
 # My abilities
 
-I'm able to use Premiere well and I'll study coloring programs in the future
-
 PROGRAMING LANGUAGE
 - JAVA
 - C++
@@ -28,6 +26,8 @@ DESIGN
 - After Effect
 - Photoshop
 - Maya
+
+I'm able to use Premiere well and I'll study coloring programs as soon as possible
 
 # Project 
 - PhoneBook 
