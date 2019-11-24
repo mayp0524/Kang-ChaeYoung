@@ -4,11 +4,11 @@
 
 # Ms.ChaeYong Kang
 
-> Kangwon National University <br>
+> Kangwon National University
 
-> Major in Media Engineering <br>
-
-> sophomore in University (2019) <br>
+ Major in Media Engineering 
+ 
+sophomore in University (2019) <br>
 
 Email : mayp0524@gmail.com 
 
