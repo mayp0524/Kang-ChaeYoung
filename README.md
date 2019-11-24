@@ -11,7 +11,3 @@ Kangwon National University
 # Interested In
 Students will upload their own project through git extention.
 
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
