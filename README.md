@@ -15,8 +15,12 @@ Email : mayp0524@gmail.com
 # Interested In
 
  VFX & Coloring 
-
-
+ 
+ I was very interested in VFX since high school
+ But I have interested in coloring recently
+ 
+ If I can, I want to have a job related to both 
+ 
 # My abilities
 
 PROGRAMING LANGUAGE
