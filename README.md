@@ -31,7 +31,7 @@ I'm able to use Premiere well and I'll study coloring programs as soon as possib
 
 # Project
 - PHONEBOOK : Create a phone book for college assignment (C++)
-- 
+By analyzing and planning the functions required for the program, creating a flowchart, and designing it based on the written flowchart,  created by implementing the code.
 
 
 
